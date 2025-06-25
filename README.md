@@ -1,2 +1,1 @@
-# Brick-Breaker
-🎮 A Java-based Brick Breaker game with a Swing GUI and MySQL integration to track player achievements. Built using OOP principles with interactive graphics and smooth gameplay.
+This is a fully functional Brick Breaker arcade game built using Java and Swing for the GUI. It features smooth paddle and ball mechanics, colorful bricks, and real-time achievement tracking using a MySQL database. The project follows object-oriented programming principles and includes a clean, user-friendly interface. Players can view their unlocked achievements in a separate styled window that connects directly to the database. Perfect for learning Java GUI development, JDBC integration, and basic game mechanics.
